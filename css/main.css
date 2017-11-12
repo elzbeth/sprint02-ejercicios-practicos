@@ -1,0 +1,101 @@
+body{
+	width:100%;
+	min-height:100vh;
+	margin-left:10px;
+	padding:0;
+	font-family:'Roboto',sans-serif;
+	font-style:normal;
+	font-weight:300;
+}
+h1{
+	width:100%;
+	margin:0;
+	padding:25px;
+	background-color: #f7b817;
+}
+
+h2,h3{
+	margin:25px 40px;
+	padding: 10px 0px 10px 25px;
+}
+
+p{
+	font-family: 'Times New Roman';
+}
+
+
+
+/*-----INICIO: LA CANCHA-----*/
+.partOne{
+	margin: 25px auto;
+	padding: 50px auto;
+}
+/*---FIN DE: LA CANCHA---*/
+
+/*----INICIO POSICIONANDO CAJAS----*/
+.partTwo{
+	margin: 25px auto;
+	padding: 50px auto;
+}
+
+
+
+/*---FIN DE: POSICIONANDO CAJAS----*/
+/*---INICIO: CSS POSITIONING 101 POR NOAOH STOKES---*/
+.partThree{
+	margin: 25px auto;
+	padding: 50px auto;
+}
+
+
+
+
+
+/*---FIN DE: CSS POSITIONING 101 POR NOAOH STOKES---*/
+/*---INICIO: EL TRÍPTICO---*/
+.partFour{
+	margin: 25px auto;
+	padding: 50px auto;
+}
+
+
+
+
+
+/*---FIN DE: EL TRÍPTICO---*/
+/*---INICIO: TIPOGRAFÍAS E ÍCONOS---*/
+.partFive{
+	margin: 25px auto;
+	padding: 50px auto;
+}
+
+
+
+
+
+/*---FIN DE: TIPOGRAFÍAS E ÍCONOS---*/
+.btn {
+  background: #f7b817;
+  background-image: -webkit-linear-gradient(top, #f7b817, #f7b750);
+  background-image: -moz-linear-gradient(top, #f7b817, #f7b750);
+  background-image: -ms-linear-gradient(top, #f7b817, #f7b750);
+  background-image: -o-linear-gradient(top, #f7b817, #f7b750);
+  background-image: linear-gradient(to bottom, #f7b817, #f7b750);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin:20px 50px;
+  text-decoration: none;
+  float:right;
+}
+
+.btn:hover {
+  background: #ffa507;
+  color:#000;
+  font-weight: 700;
+  text-decoration: none;
+}
+
